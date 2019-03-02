@@ -2,7 +2,6 @@
 Word2vec model using Google's Tensorflow for Nepali Language
 
 Some screenshots added here.
-![alt text](https://raw.githubusercontent.com/shekharkoirala/nepali_word2vec/master/screenshots/image1.png)
 ![alt text](https://raw.githubusercontent.com/shekharkoirala/nepali_word2vec/master/screenshots/image2.png)
 ![alt text](https://raw.githubusercontent.com/shekharkoirala/nepali_word2vec/master/screenshots/image3.png)
 
